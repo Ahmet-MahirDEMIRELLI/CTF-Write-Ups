@@ -1,4 +1,4 @@
-## SKYDAYS25 - Reverse Engineering CTF
+## [SKYDAYS25 - Reverse Engineering CTF](https://github.com/skylab-kulubu/SKYDAYS-CTF-25/tree/main/reverse/reverse-amd)
 
 ### Çözüm (Windows)
 

@@ -1,4 +1,4 @@
-## SKYDAYS25 - JWT CTF
+## [SKYDAYS25 - JWT CTF](https://github.com/skylab-kulubu/SKYDAYS-CTF-25/tree/main/web/jwt-amd)
 
 ### Çözüm
 

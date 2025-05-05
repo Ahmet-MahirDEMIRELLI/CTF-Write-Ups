@@ -33,7 +33,7 @@ The avatar is a cat
 <b>FIND LOCATION</b>
 
 Find the location and SSID by using the bssid from the post with https://wigle.net/
-![wigle](https://github.com/user-attachments/assets/1ef575cc-4399-4d45-8800-fdc119b03ad9)
+![wigle](https://github.com/user-attachments/assets/4e412090-77f4-4342-9d97-1288e2569aa2)
 
 -----------------------------------------------------------------------------------
 <b>GO THROUGH HIS GITHUB</b>

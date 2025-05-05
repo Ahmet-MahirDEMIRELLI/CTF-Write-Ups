@@ -5,6 +5,8 @@ tags:
   - easy
 ---
 
+#### Author: AMD
+
 ![ohsint](https://github.com/user-attachments/assets/36820ab6-26b6-410b-90af-2a5c80c8bb1e)
 
 

@@ -7,7 +7,7 @@ tags:
 
 #### Author: AMD
 
-![nocturnal](../../images/thm/athena/athena.png)
+![athena](../../images/thm/athena/athena.png)
 
 This is a writeup for <b>Athena</b> room.
 
